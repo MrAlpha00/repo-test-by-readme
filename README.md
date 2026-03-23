@@ -1,11 +1,6 @@
 # LEARNING-PROJECT-2
 
 
-sjtdtdyoddo6tdots8t
-hgffrddifz
-
-
-
 ## Restaurant Booking Web Application: Dine and Dash
 
 🎉 🌟 **Exciting News Alert!** 🌟
