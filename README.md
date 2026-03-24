@@ -2,8 +2,7 @@
 
 weuydkystdkdtskt
 witsitsisitdykssit
-stkskydktddoyddi
-yektdtisistkysy
+stkskydktddoyd
 
 ## Restaurant Booking Web Application: Dine and Dash
 
