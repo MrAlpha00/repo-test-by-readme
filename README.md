@@ -5,8 +5,6 @@ witsitsisitdykssit
 stkskydktddoyddi
 yektdtisistkysy
 fitsskyssitsyso
-sitdkyddkyddiydtsyskys
-
 
 ## Restaurant Booking Web Application: Dine and Dash
 
