@@ -1,6 +1,5 @@
 # LEARNING-PROJECT-2
 
-dkg6ekye
 
 ## Restaurant Booking Web Application: Dine and Dash
 
