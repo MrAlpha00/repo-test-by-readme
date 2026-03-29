@@ -2,7 +2,6 @@
 bhffgjj
 yydtu
 hygfg
-uug
 
 ## Restaurant Booking Web Application: Dine and Dash
 
